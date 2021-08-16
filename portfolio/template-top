@@ -1,0 +1,2281 @@
+<body class="page-template page-template-template-portfolio-filtered page-template-template-portfolio-filtered-php page page-id-1444 logged-in admin-bar _masterslider _ms_version_3.7.8 chrome customize-support">
+
+<div class="header-wrap clearfix">
+
+	<header id="header" class="clearfix">
+		<div class="header-wrapper">
+		
+			<div class="logo">
+				<h1><a href="https://www.argsf.com"><img src="https://www.argsf.com/wp-content/uploads/2018/09/arg_logo_small.jpg"></a></h1>
+			</div>
+			
+			<!-- BEGIN .nav -->
+						
+				<nav class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu sf-js-enabled sf-arrows"><li id="menu-item-1551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children first-menu-item tj-has-dropdown menu-item-1551"><a href="#" class="sf-with-ul">ABOUT</a>
+<ul class="sub-menu sf-js-enabled sf-arrows" style="display: none;">
+	<li id="menu-item-5423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5423"><a href="/history">HISTORY</a></li>
+	<li id="menu-item-5410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5410"><a href="https://www.argsf.com/about/who-we-are/">WHO WE ARE</a></li>
+	<li id="menu-item-5411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5411"><a href="https://www.argsf.com/principals-staff-arg/">PEOPLE</a></li>
+	<li id="menu-item-5412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5412"><a href="https://www.argsf.com/taking-part/">COMMUNITY</a></li>
+	<li id="menu-item-5413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5413"><a href="https://www.argsf.com/professional-involvement/">INVOLVEMENT</a></li>
+	<li id="menu-item-5414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5414"><a href="https://www.argsf.com/about/employment-internships/">CAREERS</a></li>
+</ul>
+</li>
+<li id="menu-item-5415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children tj-has-dropdown menu-item-5415"><a href="#" class="sf-with-ul">SERVICES</a>
+<ul class="sub-menu sf-js-enabled sf-arrows" style="display: none;">
+	<li id="menu-item-5416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5416"><a href="https://www.argsf.com/services/">WHAT WE DO</a></li>
+	<li id="menu-item-5417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5417"><a href="https://www.argsf.com/san-francisco-facade-ordinance/">FACADE INSPECTIONS</a></li>
+</ul>
+</li>
+<li id="menu-item-5418" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children tj-has-dropdown menu-item-5418"><a href="#" class="sf-with-ul">PORTFOLIO</a>
+<ul class="sub-menu sf-js-enabled sf-arrows" style="display: none;">
+	<li id="menu-item-5437" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1444 current_page_item menu-item-5437"><a href="https://www.argsf.com/portfolio/" aria-current="page">ALL PROJECTS</a></li>
+	<li id="menu-item-5419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5419"><a href="/portfolio-type/Architecture/">ARCHITECTURE</a></li>
+	<li id="menu-item-5420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5420"><a href="/portfolio-type/Planning/">PLANNING</a></li>
+	<li id="menu-item-5421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5421"><a href="/portfolio-type/conservation/">CONSERVATION</a></li>
+</ul>
+</li>
+<li id="menu-item-5422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children tj-has-dropdown menu-item-5422"><a href="#" class="sf-with-ul">STORIES</a>
+<ul class="sub-menu sf-js-enabled sf-arrows" style="display: none;">
+	<li id="menu-item-5424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5424"><a href="https://www.argsf.com/about/awards/">AWARDS</a></li>
+	<li id="menu-item-5425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5425"><a href="https://www.argsf.com/thought-leadership/">BLOG</a></li>
+	<li id="menu-item-5448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5448"><a href="https://www.argsf.com/news/">NEWS</a></li>
+	<li id="menu-item-5426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5426"><a href="https://www.argsf.com/about/press/">PRESS</a></li>
+</ul>
+</li>
+<li id="menu-item-5427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children tj-has-dropdown menu-item-5427"><a href="#" class="sf-with-ul">FIND US</a>
+<ul class="sub-menu sf-js-enabled sf-arrows" style="display: none;">
+	<li id="menu-item-6626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6626"><a href="https://www.argsf.com/contact/">ALL LOCATIONS</a></li>
+	<li id="menu-item-6623" class="menu-item menu-item-type-post_type menu-item-object-location menu-item-6623"><a href="https://www.argsf.com/contact/san-francisco-architecture-planning-conservation-firm/">SAN FRANCISCO</a></li>
+	<li id="menu-item-6624" class="menu-item menu-item-type-post_type menu-item-object-location menu-item-6624"><a href="https://www.argsf.com/contact/la-architecture-planning-conservation-firm/">LOS ANGELES</a></li>
+	<li id="menu-item-6625" class="menu-item menu-item-type-post_type menu-item-object-location menu-item-6625"><a href="https://www.argsf.com/contact/portland-architecture-planning-conservation-firm/">PORTLAND</a></li>
+</ul>
+</li>
+<li id="menu-item-1479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="https://www.argsf.com/login/">Login</a></li>
+<li id="menu-item-1472" class="menu-item menu-item-type-post_type menu-item-object-page last-menu-item menu-item-1472"><a href="https://www.argsf.com/search/">Search</a></li>
+</ul></nav>				
+						
+			<div class="header-login">
+				<ul class="login-search-links">
+					<li><a href="/login" class="login">Login</a></li>
+					<li class="divider">|</li>
+					<li><a href="/search" class="search">Search</a></li>
+				</ul>
+				<div class="whoweare_social_wrap">
+					<ul>
+						<li><a href="https://www.instagram.com/arg.create/" target="_blank"><img width="22px" height="22px" src="https://www.argsf.com/wp-content/themes/arg/img/instagram.png"></a></li>
+						<li><a href="http://www.linkedin.com/company/architectural-resources-group" target="_blank"><img width="22px" height="22px" src="https://www.argsf.com/wp-content/themes/arg/img/linkedin.png"></a></li>
+						<li><a href="http://www.facebook.com/ArchitecturalResourcesGroup" target="_blank"><img width="22px" height="22px" src="https://www.argsf.com/wp-content/themes/arg/img/facebook.png"></a></li>
+						<li><a href="https://twitter.com/arg_create" target="_blank"><img width="22px" height="22px" src="https://www.argsf.com/wp-content/themes/arg/img/Twitter.png"></a></li>										
+					</ul>
+
+				</div>
+
+				<div class="hamburger-menu">
+					<div class="hamburger-wrapper">
+						<div class="line"></div>
+						<div class="line"></div>
+						<div class="line"></div>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="mobile-nav">
+
+							
+					<div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children first-menu-item tj-has-dropdown menu-item-1551"><a href="#">ABOUT</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5423"><a href="/history">HISTORY</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5410"><a href="https://www.argsf.com/about/who-we-are/">WHO WE ARE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5411"><a href="https://www.argsf.com/principals-staff-arg/">PEOPLE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5412"><a href="https://www.argsf.com/taking-part/">COMMUNITY</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5413"><a href="https://www.argsf.com/professional-involvement/">INVOLVEMENT</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5414"><a href="https://www.argsf.com/about/employment-internships/">CAREERS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children tj-has-dropdown menu-item-5415"><a href="#">SERVICES</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5416"><a href="https://www.argsf.com/services/">WHAT WE DO</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5417"><a href="https://www.argsf.com/san-francisco-facade-ordinance/">FACADE INSPECTIONS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children tj-has-dropdown menu-item-5418"><a href="#">PORTFOLIO</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1444 current_page_item menu-item-5437"><a href="https://www.argsf.com/portfolio/" aria-current="page">ALL PROJECTS</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5419"><a href="/portfolio-type/Architecture/">ARCHITECTURE</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5420"><a href="/portfolio-type/Planning/">PLANNING</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5421"><a href="/portfolio-type/conservation/">CONSERVATION</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children tj-has-dropdown menu-item-5422"><a href="#">STORIES</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5424"><a href="https://www.argsf.com/about/awards/">AWARDS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5425"><a href="https://www.argsf.com/thought-leadership/">BLOG</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5448"><a href="https://www.argsf.com/news/">NEWS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5426"><a href="https://www.argsf.com/about/press/">PRESS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children tj-has-dropdown menu-item-5427"><a href="#">FIND US</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6626"><a href="https://www.argsf.com/contact/">ALL LOCATIONS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-location menu-item-6623"><a href="https://www.argsf.com/contact/san-francisco-architecture-planning-conservation-firm/">SAN FRANCISCO</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-location menu-item-6624"><a href="https://www.argsf.com/contact/la-architecture-planning-conservation-firm/">LOS ANGELES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-location menu-item-6625"><a href="https://www.argsf.com/contact/portland-architecture-planning-conservation-firm/">PORTLAND</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="https://www.argsf.com/login/">Login</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page last-menu-item menu-item-1472"><a href="https://www.argsf.com/search/">Search</a></li>
+</ul></div>				
+				
+			</div>
+		
+		</div>
+		
+	</header>
+
+</div>
+<div id="content" class="portfolio-paginated clearfix">
+	
+	<div class="portfolio_page_intro">
+	
+			<div class="content_intro">
+			<h3>ARG's Portfolio: Architecture, Planning and Conservation</h3>
+			<p></p>
+			</div>
+
+			<div id="sort-by" class="sort-by-filters">
+			<ul class="one">
+			<li>Services:</li>
+			<li><a href="#all" data-filter="type-portfolio" class="active">All</a></li>
+				<li class="cat-item cat-item-2"><span class="sep1">|</span><a href="https://www.argsf.com/portfolio-type/architecture/" data-filter="architecture" title="View all posts filed under Architecture">Architecture</a>
+</li>
+	<li class="cat-item cat-item-4"><span class="sep1">|</span><a href="https://www.argsf.com/portfolio-type/planning/" data-filter="planning" title="View all posts filed under Planning">Planning</a>
+</li><li class="cat-item cat-item-3"><span class="sep1">|</span><a href="https://www.argsf.com/portfolio-type/conservation/" data-filter="conservation" title="View all posts filed under Conservation">Conservation</a>
+</li>
+	
+	<li class="market-header">Markets:</li><li class="cat-item cat-item-109"><span class="sep1">|</span><a href="https://www.argsf.com/portfolio-type/cultural/" data-filter="cultural" title="View all posts filed under Cultural">Cultural</a>
+</li>
+	<li class="cat-item cat-item-110"><span class="sep1">|</span><a href="https://www.argsf.com/portfolio-type/education/" data-filter="education" title="View all posts filed under Education">Education</a>
+</li>
+	<li class="cat-item cat-item-111"><span class="sep1">|</span><a href="https://www.argsf.com/portfolio-type/hospitality/" data-filter="hospitality" title="View all posts filed under Hospitality">Hospitality + Commerical</a>
+</li>
+	<li class="cat-item cat-item-112"><span class="sep1">|</span><a href="https://www.argsf.com/portfolio-type/civic/" data-filter="civic" title="View all posts filed under Civic">Civic + Government </a>
+</li>
+	<li class="cat-item cat-item-113"><span class="sep1">|</span><a href="https://www.argsf.com/portfolio-type/private/" data-filter="private" title="View all posts filed under Private">Residential</a>
+</li>
+	<li class="cat-item cat-item-114"><span class="sep1">|</span><a href="https://www.argsf.com/portfolio-type/parks/" data-filter="parks" title="View all posts filed under Parks">Parks</a>
+</li>
+			</ul>
+			</div>
+		
+	</div>	
+
+	<div class="main_projects_wrap isotope clearfix">
+		
+						
+		<!-- BEGIN Article-->
+		<article id="post-6101" class=" isotope-item post-6101 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-tag-civic hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-exterior-restoration">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/portland-city-hall/" title="Portland City Hall" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Portland City Hall</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2020/12/2019_0713_ARG_cityhall-0100-2-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Front image of the Portland City Hall covered by two trees on two end and a yellow crane, windows of the building with rainbow flags" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2020/12/2019_0713_ARG_cityhall-0100-2-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2020/12/2019_0713_ARG_cityhall-0100-2-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2020/12/2019_0713_ARG_cityhall-0100-2-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2020/12/2019_0713_ARG_cityhall-0100-2-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2020/12/2019_0713_ARG_cityhall-0100-2-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2020/12/2019_0713_ARG_cityhall-0100-2-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-6485" class="architecture conservation planning education isotope-item post-6485 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-planning portfolio-type-education portfolio-tag-education hidden-portfolio-tag-exterior-restoration hidden-portfolio-tag-historic-documentation">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/portland-public-schools/" title="Portland Public Schools" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Portland Public Schools</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/Roosevelt-HS_PPS.thumbnailv2-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/Roosevelt-HS_PPS.thumbnailv2-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/Roosevelt-HS_PPS.thumbnailv2-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/Roosevelt-HS_PPS.thumbnailv2-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/Roosevelt-HS_PPS.thumbnailv2-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/Roosevelt-HS_PPS.thumbnailv2-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/Roosevelt-HS_PPS.thumbnailv2-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/Roosevelt-HS_PPS.thumbnailv2.jpg 320w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-5325" class="architecture conservation private isotope-item post-5325 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-private hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-restoration hidden-portfolio-tag-historic">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/trust-building/" title="The Trust Building" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">The Trust Building</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2019/11/TrustBldg-01-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Evening shot of the Trust Building's entrance" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2019/11/TrustBldg-01-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2019/11/TrustBldg-01-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2019/11/TrustBldg-01-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2019/11/TrustBldg-01-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2019/11/TrustBldg-01-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2019/11/TrustBldg-01-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2019/11/TrustBldg-01-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-6577" class="architecture civic isotope-item post-6577 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-civic portfolio-tag-civic hidden-portfolio-tag-renovation hidden-portfolio-tag-historic hidden-portfolio-tag-sacramento">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/dgs-resources-building/" title="DGS Resources Building" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">DGS Resources Building</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/DGSBldg_cover.web_-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Resource's building side exterior" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/DGSBldg_cover.web_-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/DGSBldg_cover.web_-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/DGSBldg_cover.web_-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/DGSBldg_cover.web_-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/DGSBldg_cover.web_-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/DGSBldg_cover.web_-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/DGSBldg_cover.web_.jpg 320w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-5987" class="architecture conservation cultural hospitality isotope-item post-5987 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-cultural portfolio-type-hospitality portfolio-tag-cultural portfolio-tag-hospitality hidden-portfolio-tag-new-construction hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-historic">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/cooper-molera/" title="Cooper-Molera Adobe Historic Site" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Cooper-Molera Adobe Historic Site</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2020/10/Cooper-Molera2_thumbnail-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Evening exterior shot of the barn at Cooper-Molera in the distant illuminated by string of lights" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2020/10/Cooper-Molera2_thumbnail-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2020/10/Cooper-Molera2_thumbnail-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2020/10/Cooper-Molera2_thumbnail-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2020/10/Cooper-Molera2_thumbnail-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2020/10/Cooper-Molera2_thumbnail-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2020/10/Cooper-Molera2_thumbnail-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2020/10/Cooper-Molera2_thumbnail-625x625.jpg 625w, https://www.argsf.com/wp-content/uploads/2020/10/Cooper-Molera2_thumbnail-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2020/10/Cooper-Molera2_thumbnail-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2020/10/Cooper-Molera2_thumbnail.jpg 666w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2202" class="architecture conservation hospitality isotope-item post-2202 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-hospitality portfolio-tag-hospitality hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-restoration hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-construction-administration hidden-portfolio-tag-programming">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/rhine-house-beringer-vineyards/" title="Rhine House at Beringer Vineyards" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Rhine House at Beringer Vineyards</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely409301_resized_cropped.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Rhine House at Beringer Vineyards - Architectural Restoration - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely409301_resized_cropped.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely409301_resized_cropped-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely409301_resized_cropped-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely409301_resized_cropped-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely409301_resized_cropped-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely409301_resized_cropped-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely409301_resized_cropped-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely409301_resized_cropped-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-6260" class="architecture conservation planning civic isotope-item post-6260 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-planning portfolio-type-civic portfolio-tag-civic hidden-portfolio-tag-exterior-restoration hidden-portfolio-tag-renovation hidden-portfolio-tag-historic">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/oregon-state-capitol/" title="Oregon State Capitol" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Oregon State Capitol</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="300" src="https://www.argsf.com/wp-content/uploads/ORCapitol_thumbnail-302x300.jpg" class="attachment-project-half size-project-half wp-post-image" alt="OR State Capitol further and fountain shot" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/ORCapitol_thumbnail-302x300.jpg 302w, https://www.argsf.com/wp-content/uploads/ORCapitol_thumbnail-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/ORCapitol_thumbnail-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/ORCapitol_thumbnail-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/ORCapitol_thumbnail-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-3058" class="architecture cultural education isotope-item post-3058 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-cultural portfolio-type-education portfolio-tag-cultural portfolio-tag-education hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-master-planning hidden-portfolio-tag-construction-administration hidden-portfolio-tag-adaptive-reuse hidden-portfolio-tag-universal-access-design hidden-portfolio-tag-programming">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/pasadena-conservatory-of-music-master-plan-programming/" title="Pasadena Conservatory of Music" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Pasadena Conservatory of Music</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely315101_featured.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely315101_featured.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely315101_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely315101_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely315101_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely315101_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely315101_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely315101_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely315101_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-6540" class="planning isotope-item post-6540 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-planning portfolio-tag-residential hidden-portfolio-tag-historic-structure-reports">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/anderson-house/" title="Anderson House" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Anderson House</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/Anderson-House_copy.WEB_-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="exterior side angle of the Anderson House" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/Anderson-House_copy.WEB_-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/Anderson-House_copy.WEB_-768x768.jpg 768w, https://www.argsf.com/wp-content/uploads/Anderson-House_copy.WEB_-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/Anderson-House_copy.WEB_-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/Anderson-House_copy.WEB_-680x680.jpg 680w, https://www.argsf.com/wp-content/uploads/Anderson-House_copy.WEB_-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/Anderson-House_copy.WEB_-940x940.jpg 940w, https://www.argsf.com/wp-content/uploads/Anderson-House_copy.WEB_-625x625.jpg 625w, https://www.argsf.com/wp-content/uploads/Anderson-House_copy.WEB_-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/Anderson-House_copy.WEB_-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/Anderson-House_copy.WEB_.jpg 1000w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-6379" class="conservation cultural civic parks isotope-item post-6379 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-conservation portfolio-type-cultural portfolio-type-civic portfolio-type-parks portfolio-tag-cultural portfolio-tag-civic portfolio-tag-parks hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-conditions-survey">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/japanese-tea-garden-pagoda/" title="Japanese Tea Garden Pagoda" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Japanese Tea Garden Pagoda</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/GG_Pagoda_web.IMG_6047-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/GG_Pagoda_web.IMG_6047-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/GG_Pagoda_web.IMG_6047-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/GG_Pagoda_web.IMG_6047-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/GG_Pagoda_web.IMG_6047-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/GG_Pagoda_web.IMG_6047-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-6310" class="planning education isotope-item post-6310 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-planning portfolio-type-education portfolio-tag-education hidden-portfolio-tag-design-guidelines hidden-portfolio-tag-historic-documentation">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/pacific-university-hra/" title="Pacific University Historic Resources Assessment" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Pacific University Historic Resources Assessment</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/Old-College-Hall_web-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="side view of the Old College Hall, cream white building with wooden window frames" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/Old-College-Hall_web-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/Old-College-Hall_web-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/Old-College-Hall_web-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/Old-College-Hall_web-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/Old-College-Hall_web-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2234" class="architecture conservation planning civic isotope-item post-2234 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-planning portfolio-type-civic portfolio-tag-civic hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-master-planning hidden-portfolio-tag-design-guidelines hidden-portfolio-tag-historic-structure-reports hidden-portfolio-tag-historic-resource-surveys hidden-portfolio-tag-environmental-review hidden-portfolio-tag-nominations hidden-portfolio-tag-exterior-restoration">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/oregon-state-hospital-planning-architecture-conservation/" title="Oregon State Hospital" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Oregon State Hospital</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/OSH-JoshPartee-8840-west-facade_resized_cropped.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Oregon State Hospital - Planning, Architecture, Conservation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/OSH-JoshPartee-8840-west-facade_resized_cropped.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/OSH-JoshPartee-8840-west-facade_resized_cropped-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/OSH-JoshPartee-8840-west-facade_resized_cropped-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/OSH-JoshPartee-8840-west-facade_resized_cropped-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/OSH-JoshPartee-8840-west-facade_resized_cropped-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/OSH-JoshPartee-8840-west-facade_resized_cropped-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/OSH-JoshPartee-8840-west-facade_resized_cropped-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/OSH-JoshPartee-8840-west-facade_resized_cropped-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-6559" class="planning education isotope-item post-6559 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-planning portfolio-type-education portfolio-tag-education hidden-portfolio-tag-historic-resource-surveys hidden-portfolio-tag-nominations">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/ucsd-campus-survey/" title="UC San Diego Campus-Wide Historic Resource Survey" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">UC San Diego Campus-Wide Historic Resource Survey</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/UCSD_copy.WEB_.resized-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Geisel Library, exterior evening shot" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/UCSD_copy.WEB_.resized-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/UCSD_copy.WEB_.resized-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/UCSD_copy.WEB_.resized-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/UCSD_copy.WEB_.resized-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/UCSD_copy.WEB_.resized-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/UCSD_copy.WEB_.resized-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/UCSD_copy.WEB_.resized.jpg 320w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-4602" class="architecture education isotope-item post-4602 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-education portfolio-tag-education hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-interior-design hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-adaptive-reuse hidden-portfolio-tag-universal-access-design hidden-portfolio-tag-programming">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/kingscote-gardens/" title="Kingscote Gardens" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Kingscote Gardens</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2018/02/Kingscote-Square-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2018/02/Kingscote-Square-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2018/02/Kingscote-Square-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2018/02/Kingscote-Square-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2018/02/Kingscote-Square-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2018/02/Kingscote-Square-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2018/02/Kingscote-Square-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2018/02/Kingscote-Square-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2018/02/Kingscote-Square-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2018/02/Kingscote-Square.jpg 320w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-4850" class="architecture conservation cultural education isotope-item post-4850 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-cultural portfolio-type-education portfolio-tag-cultural portfolio-tag-education hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-sustainable-design hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration hidden-portfolio-tag-universal-access-design hidden-portfolio-tag-new-design hidden-portfolio-tag-art-in-outdoor-environments">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/william-andrews-clark-memorial-library/" title="William Andrews Clark Memorial Library" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">William Andrews Clark Memorial Library</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2019/03/01_Clark_Lib-2018-schafphoto-HERO-twilight-1111-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Image of the Clark Library at twilight" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2019/03/01_Clark_Lib-2018-schafphoto-HERO-twilight-1111-e1552332147219.jpg 302w, https://www.argsf.com/wp-content/uploads/2019/03/01_Clark_Lib-2018-schafphoto-HERO-twilight-1111-e1552332147219-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2019/03/01_Clark_Lib-2018-schafphoto-HERO-twilight-1111-e1552332147219-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2019/03/01_Clark_Lib-2018-schafphoto-HERO-twilight-1111-e1552332147219-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2019/03/01_Clark_Lib-2018-schafphoto-HERO-twilight-1111-e1552332147219-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2019/03/01_Clark_Lib-2018-schafphoto-HERO-twilight-1111-e1552332147219-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2019/03/01_Clark_Lib-2018-schafphoto-HERO-twilight-1111-e1552332147219-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2019/03/01_Clark_Lib-2018-schafphoto-HERO-twilight-1111-e1552332147219-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-5978" class="architecture hospitality isotope-item post-5978 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-hospitality portfolio-tag-hospitality hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-interior-design hidden-portfolio-tag-construction-administration hidden-portfolio-tag-adaptive-reuse hidden-portfolio-tag-programming">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/kistler-trenton-roadhouse-barn/" title="Kistler Trenton Roadhouse &amp; Barn" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Kistler Trenton Roadhouse &amp; Barn</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2019/02/Kistler-Barn-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Kistler Barn" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2019/02/Kistler-Barn-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2019/02/Kistler-Barn-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2019/02/Kistler-Barn-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2019/02/Kistler-Barn-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2019/02/Kistler-Barn-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2019/02/Kistler-Barn-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2636" class="architecture cultural parks isotope-item post-2636 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-cultural portfolio-type-parks portfolio-tag-cultural portfolio-tag-parks hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-exterior-restoration">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/filoli-estate/" title="Filoli Estate" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Filoli Estate</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely308223_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Filoli Estate - Architectural Rehabilitation, Exterior Restoration - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely308223_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely308223_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely308223_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely308223_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely308223_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely308223_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely308223_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely308223_featured-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely308223_featured.jpg 545w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-5952" class="planning isotope-item post-5952 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-planning portfolio-tag-residential hidden-portfolio-tag-nominations hidden-portfolio-tag-historic">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/view-park-historic-district/" title="View Park Historic District" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">View Park Historic District</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/ViewPark_thumbnail-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="image of a home entrance in View Park" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/ViewPark_thumbnail-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/ViewPark_thumbnail-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/ViewPark_thumbnail-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/ViewPark_thumbnail-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/ViewPark_thumbnail-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/ViewPark_thumbnail-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/ViewPark_thumbnail.jpg 320w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1513" class="architecture parks isotope-item post-1513 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-parks portfolio-tag-cultural portfolio-tag-parks portfolio-tag-civi-government hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-historic-structure-reports hidden-portfolio-tag-restoration hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration hidden-portfolio-tag-conditions-survey hidden-portfolio-tag-repair-and-maintenance-plans">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/conservatory-of-flowers/" title="Conservatory of Flowers" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Conservatory of Flowers</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2014/05/Wakely_Conserv_intentrance4_featured.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Conservatory of Flowers Architectural Restoration and Rehabilitation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2014/05/Wakely_Conserv_intentrance4_featured.jpg 302w, https://www.argsf.com/wp-content/uploads/2014/05/Wakely_Conserv_intentrance4_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2014/05/Wakely_Conserv_intentrance4_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2014/05/Wakely_Conserv_intentrance4_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2014/05/Wakely_Conserv_intentrance4_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2014/05/Wakely_Conserv_intentrance4_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2014/05/Wakely_Conserv_intentrance4_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2014/05/Wakely_Conserv_intentrance4_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-4828" class="architecture conservation parks isotope-item post-4828 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-parks portfolio-tag-parks hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration hidden-portfolio-tag-conditions-survey hidden-portfolio-tag-building-enclosures hidden-portfolio-tag-building-assessments">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/alcatraz-quartermaster-warehouse/" title="Alcatraz Quartermaster Warehouse" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Alcatraz Quartermaster Warehouse</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2019/04/alca_arg_jpg-12-1-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2019/04/alca_arg_jpg-12-1-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2019/04/alca_arg_jpg-12-1-e1554848998842-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2019/04/alca_arg_jpg-12-1-e1554848998842-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2019/04/alca_arg_jpg-12-1-e1554848998842-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2019/04/alca_arg_jpg-12-1-e1554848998842-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2019/04/alca_arg_jpg-12-1-e1554848998842-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2019/04/alca_arg_jpg-12-1-e1554848998842-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2019/04/alca_arg_jpg-12-1-e1554848998842.jpg 299w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1936" class="architecture civic parks isotope-item post-1936 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-civic portfolio-type-parks portfolio-tag-civic portfolio-tag-parks hidden-portfolio-tag-programming-and-interiors hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-sustainable-design hidden-portfolio-tag-historic-structure-reports">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/furnace-creek-visitor-center/" title="Furnace Creek Visitor Center" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Furnace Creek Visitor Center</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/cWakely312219_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Furnace Creek Visitor - Center National Park Service - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/cWakely312219_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312219_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312219_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312219_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312219_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312219_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312219_featured-625x625.jpg 625w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312219_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312219_featured-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312219_featured.jpg 664w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1781" class="conservation cultural civic parks isotope-item post-1781 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-conservation portfolio-type-cultural portfolio-type-civic portfolio-type-parks portfolio-tag-cultural portfolio-tag-civic portfolio-tag-parks hidden-portfolio-tag-restoration hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-construction-administration hidden-portfolio-tag-universal-access-design hidden-portfolio-tag-conditions-survey hidden-portfolio-tag-building-enclosures hidden-portfolio-tag-facade-inspections hidden-portfolio-tag-art-in-outdoor-environments hidden-portfolio-tag-maintenance-and-remedial-work">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/sf-maritime-museum/" title="San Francisco Maritime Museum" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">San Francisco Maritime Museum</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/Maritime-8_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="San Francisco Maritime Museum - Architectural Restoration - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/Maritime-8_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/Maritime-8_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/Maritime-8_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/Maritime-8_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/Maritime-8_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/Maritime-8_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/Maritime-8_featured.jpg 625w, https://www.argsf.com/wp-content/uploads/2015/09/Maritime-8_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/Maritime-8_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-3414" class="architecture conservation cultural hospitality isotope-item post-3414 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-cultural portfolio-type-hospitality portfolio-tag-cultural portfolio-tag-hospitality hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-restoration hidden-portfolio-tag-interior-design hidden-portfolio-tag-materials-conservation">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/new-mission-theater/" title="New Mission Theater" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">New Mission Theater</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2016/03/¬Wakely216416-2-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2016/03/¬Wakely216416-2-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2016/03/¬Wakely216416-2-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2016/03/¬Wakely216416-2-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2016/03/¬Wakely216416-2-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2016/03/¬Wakely216416-2-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2016/03/¬Wakely216416-2-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1945" class="conservation civic isotope-item post-1945 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-conservation portfolio-type-civic portfolio-tag-civic hidden-portfolio-tag-programming-and-interiors hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-master-planning hidden-portfolio-tag-design-guidelines">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/la-union-station/" title="Los Angeles Union Station" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Los Angeles Union Station</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2014/09/LA-Union-Station-Crop.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2014/09/LA-Union-Station-Crop.jpg 302w, https://www.argsf.com/wp-content/uploads/2014/09/LA-Union-Station-Crop-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2014/09/LA-Union-Station-Crop-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2014/09/LA-Union-Station-Crop-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2014/09/LA-Union-Station-Crop-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2014/09/LA-Union-Station-Crop-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2014/09/LA-Union-Station-Crop-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2014/09/LA-Union-Station-Crop-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-4593" class="architecture conservation hospitality parks isotope-item post-4593 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-hospitality portfolio-type-parks portfolio-tag-hospitality portfolio-tag-parks hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-sustainable-design hidden-portfolio-tag-interior-design hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration hidden-portfolio-tag-adaptive-reuse hidden-portfolio-tag-universal-access-design hidden-portfolio-tag-programming">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/lodge-at-the-presidio/" title="Lodge at the Presidio" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Lodge at the Presidio</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2018/02/Lodge-at-the-Presidio.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2018/02/Lodge-at-the-Presidio.jpg 302w, https://www.argsf.com/wp-content/uploads/2018/02/Lodge-at-the-Presidio-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2018/02/Lodge-at-the-Presidio-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2018/02/Lodge-at-the-Presidio-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2018/02/Lodge-at-the-Presidio-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2018/02/Lodge-at-the-Presidio-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2018/02/Lodge-at-the-Presidio-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2018/02/Lodge-at-the-Presidio-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-4837" class="architecture conservation education isotope-item post-4837 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-education portfolio-tag-education hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-interior-design hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration hidden-portfolio-tag-adaptive-reuse hidden-portfolio-tag-universal-access-design hidden-portfolio-tag-feasibility-analysis hidden-portfolio-tag-building-assessments">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/anna-head-building/" title="Anna Head Building E/F" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Anna Head Building E/F</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2019/05/AnnaHead-2018-ARGSF-1-e1557179291132-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2019/05/AnnaHead-2018-ARGSF-1-e1557179291132-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2019/05/AnnaHead-2018-ARGSF-1-e1557179291132-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2019/05/AnnaHead-2018-ARGSF-1-e1557179291132-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2019/05/AnnaHead-2018-ARGSF-1-e1557179291132-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2019/05/AnnaHead-2018-ARGSF-1-e1557179291132-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2019/05/AnnaHead-2018-ARGSF-1-e1557179291132-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2019/05/AnnaHead-2018-ARGSF-1-e1557179291132-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2019/05/AnnaHead-2018-ARGSF-1-e1557179291132-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2019/05/AnnaHead-2018-ARGSF-1-e1557179291132.jpg 319w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-4870" class="architecture hospitality isotope-item post-4870 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-hospitality portfolio-tag-hospitality-commerical portfolio-tag-civi-government hidden-portfolio-tag-construction-administration hidden-portfolio-tag-new-design">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/metro-bike-hub/" title="Metro Bike Hub" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Metro Bike Hub</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2019/05/Portfolio-3-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2019/05/Portfolio-3-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2019/05/Portfolio-3-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2019/05/Portfolio-3-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2019/05/Portfolio-3-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2019/05/Portfolio-3-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2019/05/Portfolio-3-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2019/05/Portfolio-3-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2019/05/Portfolio-3-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2019/05/Portfolio-3.jpg 320w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2226" class="architecture cultural hospitality isotope-item post-2226 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-cultural portfolio-type-hospitality portfolio-tag-cultural portfolio-tag-hospitality hidden-portfolio-tag-master-planning hidden-portfolio-tag-interior-design hidden-portfolio-tag-construction-administration hidden-portfolio-tag-new-design hidden-portfolio-tag-programming">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/the-huntington-education-and-visitor-center-architecture/" title="The Huntington Education and Visitor Center" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">The Huntington Education and Visitor Center</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely715148R_featured.jpg" class="attachment-project-half size-project-half wp-post-image" alt="The Huntington Education and Visitor Center - Architecture - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely715148R_featured.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely715148R_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely715148R_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely715148R_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely715148R_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely715148R_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely715148R_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/¬Wakely715148R_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2212" class="architecture isotope-item post-2212 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-tag-civi-government hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-sustainable-design hidden-portfolio-tag-interior-design hidden-portfolio-tag-construction-administration hidden-portfolio-tag-new-design hidden-portfolio-tag-programming">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/danville-veterans-memorial-building-architectural-rehabilitation/" title="Danville Veterans Memorial Building" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Danville Veterans Memorial Building</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/cWakely912906_resized_cropped.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Danville Veterans Memorial Building - Architectural Rehabilitation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/cWakely912906_resized_cropped.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely912906_resized_cropped-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely912906_resized_cropped-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely912906_resized_cropped-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely912906_resized_cropped-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely912906_resized_cropped-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely912906_resized_cropped-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely912906_resized_cropped-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-6357" class="architecture conservation hospitality isotope-item post-6357 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-hospitality portfolio-tag-hospitality hidden-portfolio-tag-conditions-survey hidden-portfolio-tag-building-enclosures hidden-portfolio-tag-facade-inspections">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/450-sutter-street/" title="450 Sutter Street" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">450 Sutter Street</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2014/10/450-Sutter-Street-exterior3_resized-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Upward view of a tall building" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2014/10/450-Sutter-Street-exterior3_resized-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2014/10/450-Sutter-Street-exterior3_resized-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2014/10/450-Sutter-Street-exterior3_resized-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2014/10/450-Sutter-Street-exterior3_resized-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2014/10/450-Sutter-Street-exterior3_resized-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2014/10/450-Sutter-Street-exterior3_resized-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2679" class="architecture civic parks isotope-item post-2679 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-civic portfolio-type-parks portfolio-tag-civic portfolio-tag-parks hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-design-guidelines hidden-portfolio-tag-historic-structure-reports hidden-portfolio-tag-conditions-assessment hidden-portfolio-tag-interior-design hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration hidden-portfolio-tag-adaptive-reuse hidden-portfolio-tag-universal-access-design">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/fort-vancouver/" title="Fort Vancouver" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Fort Vancouver</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2018/11/2017_07_Vancouver-215_Portfolio.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2018/11/2017_07_Vancouver-215_Portfolio.jpg 302w, https://www.argsf.com/wp-content/uploads/2018/11/2017_07_Vancouver-215_Portfolio-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2018/11/2017_07_Vancouver-215_Portfolio-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2018/11/2017_07_Vancouver-215_Portfolio-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2018/11/2017_07_Vancouver-215_Portfolio-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2018/11/2017_07_Vancouver-215_Portfolio-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2018/11/2017_07_Vancouver-215_Portfolio-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2018/11/2017_07_Vancouver-215_Portfolio-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1920" class="architecture conservation planning cultural isotope-item post-1920 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-planning portfolio-type-cultural portfolio-tag-cultural portfolio-tag-hospitality-commerical portfolio-tag-civi-government hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-historic-structure-reports hidden-portfolio-tag-restoration hidden-portfolio-tag-interior-design hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/alameda-theatre-architectural-rehabilitation-historic-preservation/" title="Alameda Theatre" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Alameda Theatre</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1008416_featured.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Alameda Theatre - Architectural Rehabilitation, Historic Preservation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1008416_featured.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1008416_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1008416_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1008416_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1008416_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1008416_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1008416_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1008416_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2204" class="architecture conservation hospitality parks isotope-item post-2204 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-hospitality portfolio-type-parks portfolio-tag-hospitality portfolio-tag-parks hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-sustainable-design hidden-portfolio-tag-master-planning hidden-portfolio-tag-tax-credits hidden-portfolio-tag-interior-design hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration hidden-portfolio-tag-adaptive-reuse hidden-portfolio-tag-universal-access-design hidden-portfolio-tag-programming">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/cavallo-point-historic-preservation/" title="Cavallo Point, the Lodge at the Golden Gate" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Cavallo Point, the Lodge at the Golden Gate</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely508312_resized_cropped.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Cavallo Point, the Lodge at the Golden Gate - Historic Preservation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely508312_resized_cropped.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely508312_resized_cropped-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely508312_resized_cropped-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely508312_resized_cropped-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely508312_resized_cropped-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely508312_resized_cropped-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely508312_resized_cropped-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely508312_resized_cropped-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-4574" class="architecture conservation cultural isotope-item post-4574 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-cultural portfolio-tag-cultural hidden-portfolio-tag-nominations hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-conditions-survey hidden-portfolio-tag-repair-and-maintenance-plans hidden-portfolio-tag-building-enclosures hidden-portfolio-tag-preservation hidden-portfolio-tag-non-destructive-materials-investigation">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/maryhill-museum-of-art/" title="Maryhill Museum of Art" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Maryhill Museum of Art</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2018/11/1C_Portfolio3.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2018/11/1C_Portfolio3.jpg 302w, https://www.argsf.com/wp-content/uploads/2018/11/1C_Portfolio3-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2018/11/1C_Portfolio3-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2018/11/1C_Portfolio3-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2018/11/1C_Portfolio3-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2018/11/1C_Portfolio3-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2018/11/1C_Portfolio3-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2018/11/1C_Portfolio3-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1948" class="architecture civic isotope-item post-1948 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-civic portfolio-tag-civic hidden-portfolio-tag-programming-and-interiors hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-sustainable-design hidden-portfolio-tag-exterior-restoration">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/pasadena-city-hall/" title="Pasadena City Hall" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Pasadena City Hall</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely708424-300-dpi_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Pasadena City Hall - Architectural Rehabilitation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely708424-300-dpi_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely708424-300-dpi_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely708424-300-dpi_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely708424-300-dpi_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely708424-300-dpi_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely708424-300-dpi_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely708424-300-dpi_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely708424-300-dpi_featured-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely708424-300-dpi_featured.jpg 500w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-6362" class="architecture conservation hospitality isotope-item post-6362 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-hospitality portfolio-tag-hospitality hidden-portfolio-tag-restoration hidden-portfolio-tag-interior-design hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-construction-administration hidden-portfolio-tag-building-enclosures hidden-portfolio-tag-facade-inspections">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/mark-hopkins-hotel/" title="InterContinental Mark Hopkins Hotel" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">InterContinental Mark Hopkins Hotel</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/FA06-01-06_edit-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Evening entrance view of the Intercontinental Mark Hopkins Hotel" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/FA06-01-06_edit-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/FA06-01-06_edit-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/FA06-01-06_edit-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/FA06-01-06_edit-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/FA06-01-06_edit-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2685" class="architecture planning cultural isotope-item post-2685 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-planning portfolio-type-cultural portfolio-tag-cultural hidden-portfolio-tag-programming-and-interiors hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-master-planning">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/francis-ermatinger-house/" title="Francis Ermatinger House" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Francis Ermatinger House</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2016/01/1.-Ermatinger_Thumbnail-Image_Sized-for-Web.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2016/01/1.-Ermatinger_Thumbnail-Image_Sized-for-Web.jpg 302w, https://www.argsf.com/wp-content/uploads/2016/01/1.-Ermatinger_Thumbnail-Image_Sized-for-Web-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2016/01/1.-Ermatinger_Thumbnail-Image_Sized-for-Web-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2016/01/1.-Ermatinger_Thumbnail-Image_Sized-for-Web-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2016/01/1.-Ermatinger_Thumbnail-Image_Sized-for-Web-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2016/01/1.-Ermatinger_Thumbnail-Image_Sized-for-Web-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2016/01/1.-Ermatinger_Thumbnail-Image_Sized-for-Web-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2016/01/1.-Ermatinger_Thumbnail-Image_Sized-for-Web-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2640" class="architecture conservation hospitality isotope-item post-2640 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-hospitality portfolio-tag-hospitality hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-conditions-survey hidden-portfolio-tag-building-enclosures">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/charles-krug-winery/" title="Charles Krug Winery" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Charles Krug Winery</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/krug_3_featured.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Charles Krug Winery - Architectural Rehabilitation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/krug_3_featured.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/krug_3_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/krug_3_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/krug_3_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/krug_3_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/krug_3_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/krug_3_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/krug_3_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1926" class="architecture isotope-item post-1926 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-tag-cultural portfolio-tag-civi-government hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-sustainable-design hidden-portfolio-tag-restoration hidden-portfolio-tag-construction-administration hidden-portfolio-tag-universal-access-design hidden-portfolio-tag-new-design">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/berkeley-public-library-north-branch/" title="Berkeley Public Library, North Branch" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Berkeley Public Library, North Branch</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/cWakely712318_cropped-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Berkeley Public Library, North Branch - Sustainable Design, LEED Silver - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/cWakely712318_cropped-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely712318_cropped-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely712318_cropped-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely712318_cropped-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely712318_cropped-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely712318_cropped-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely712318_cropped-625x625.jpg 625w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely712318_cropped-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely712318_cropped-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely712318_cropped.jpg 664w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1733" class="architecture planning isotope-item post-1733 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-planning portfolio-tag-education hidden-portfolio-tag-programming-and-interiors hidden-portfolio-tag-master-planning">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/culinary-institute-of-america-at-greystone/" title="Culinary Institute of America at Greystone" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Culinary Institute of America at Greystone</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2014/06/CIA-7_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2014/06/CIA-7_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2014/06/CIA-7_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2014/06/CIA-7_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2014/06/CIA-7_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2014/06/CIA-7_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2014/06/CIA-7_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2014/06/CIA-7_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2014/06/CIA-7_featured-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2014/06/CIA-7_featured.jpg 608w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2746" class="planning cultural civic parks isotope-item post-2746 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-planning portfolio-type-cultural portfolio-type-civic portfolio-type-parks portfolio-tag-cultural portfolio-tag-civic portfolio-tag-parks hidden-portfolio-tag-historic-structure-reports">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/historic-structure-reports-preservation-planning/" title="Historic Structure Reports" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Historic Structure Reports</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/05/Union-Station-8.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Historic Structure Reports, Preservation Planner - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/05/Union-Station-8.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/05/Union-Station-8-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/05/Union-Station-8-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/05/Union-Station-8-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/05/Union-Station-8-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/05/Union-Station-8-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/05/Union-Station-8-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/05/Union-Station-8-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1930" class="architecture education isotope-item post-1930 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-education portfolio-tag-education hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-sustainable-design hidden-portfolio-tag-historic-structure-reports hidden-portfolio-tag-interior-design hidden-portfolio-tag-programming">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/caltech-linde-robinson-lab/" title="The Linde Center" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">The Linde Center</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/cWakely1211305_150dpi_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Caltech Linde + Robinson Laboratory for Global Environmental Sciences" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/cWakely1211305_150dpi_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1211305_150dpi_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1211305_150dpi_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1211305_150dpi_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1211305_150dpi_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1211305_150dpi_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1211305_150dpi_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1211305_150dpi_featured-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1211305_150dpi_featured.jpg 500w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-3073" class="architecture isotope-item post-3073 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-tag-residential hidden-portfolio-tag-rehabilitation">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/featherstone-residence-architectural-renovation/" title="Featherstone Residence" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Featherstone Residence</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/Featherston_pool_featured.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Featherstone Residence Architectural Renovation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/Featherston_pool_featured.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/Featherston_pool_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/Featherston_pool_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/Featherston_pool_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/Featherston_pool_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/Featherston_pool_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/Featherston_pool_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/Featherston_pool_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-3052" class="architecture isotope-item post-3052 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-tag-residential hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-restoration hidden-portfolio-tag-interior-design hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-new-design">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/owen-residence-historic-renovations-and-additions/" title="Owen Residence" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Owen Residence</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/©WakelyOwenScout36_featured.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Owen Residence - Historic Renovations and Additions - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/©WakelyOwenScout36_featured.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyOwenScout36_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyOwenScout36_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyOwenScout36_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyOwenScout36_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyOwenScout36_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyOwenScout36_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyOwenScout36_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2742" class="planning cultural civic isotope-item post-2742 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-planning portfolio-type-cultural portfolio-type-civic portfolio-tag-cultural portfolio-tag-civic hidden-portfolio-tag-environmental-review">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/environmental-design-review/" title="Environmental Design Review" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Environmental Design Review</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/05/hargis_140210_0529_original_feautred.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Environmental Design Review, Secretary of the Interior's Qualifications Standards" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/05/hargis_140210_0529_original_feautred.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/05/hargis_140210_0529_original_feautred-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/05/hargis_140210_0529_original_feautred-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/05/hargis_140210_0529_original_feautred-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/05/hargis_140210_0529_original_feautred-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/05/hargis_140210_0529_original_feautred-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/05/hargis_140210_0529_original_feautred-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/05/hargis_140210_0529_original_feautred-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2210" class="architecture hospitality parks isotope-item post-2210 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-hospitality portfolio-type-parks portfolio-tag-hospitality portfolio-tag-parks hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-sustainable-design hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration hidden-portfolio-tag-building-enclosures">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/curry-village-lounge-and-registration-buildings-rehabilitation/" title="Curry Village Lounge and Registration Buildings" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Curry Village Lounge and Registration Buildings</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1009113_cropped.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Curry Village Lounge and Registration Buildings - Rehabilitation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1009113_cropped.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1009113_cropped-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1009113_cropped-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1009113_cropped-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1009113_cropped-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1009113_cropped-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1009113_cropped-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely1009113_cropped-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2688" class="architecture conservation cultural isotope-item post-2688 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-cultural portfolio-tag-cultural hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration hidden-portfolio-tag-building-assessments">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/first-church-of-christ-pasadena/" title="First Church of Christ, Pasadena" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">First Church of Christ, Pasadena</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/01/exterior-completed_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/01/exterior-completed_featured.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/01/exterior-completed_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/01/exterior-completed_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/01/exterior-completed_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/01/exterior-completed_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/01/exterior-completed_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/01/exterior-completed_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/01/exterior-completed_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1665" class="architecture conservation isotope-item post-1665 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-tag-cultural portfolio-tag-civi-government hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-construction-administration hidden-portfolio-tag-conditions-survey hidden-portfolio-tag-repair-and-maintenance-plans hidden-portfolio-tag-building-enclosures hidden-portfolio-tag-facade-inspections hidden-portfolio-tag-art-in-outdoor-environments">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/coit-memorial-tower-architectural-rehabilitation/" title="Coit Memorial Tower" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Coit Memorial Tower</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/cWakely614215_featured.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Coit Memorial Tower - Architectural Rehabilitation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/cWakely614215_featured.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely614215_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely614215_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely614215_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely614215_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely614215_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely614215_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely614215_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2642" class="architecture cultural isotope-item post-2642 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-cultural portfolio-tag-cultural hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-restoration hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-universal-access-design hidden-portfolio-tag-new-design hidden-portfolio-tag-feasibility-analysis">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/napa-valley-opera-house-architectural-restoration-and-rehabilitation/" title="Napa Valley Opera House" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Napa Valley Opera House</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/Wakely_NVOH_extdusk_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Napa Valley Opera House - Architectural Restoration and Rehabilitation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/Wakely_NVOH_extdusk_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_NVOH_extdusk_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_NVOH_extdusk_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_NVOH_extdusk_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_NVOH_extdusk_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_NVOH_extdusk_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_NVOH_extdusk_featured.jpg 625w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_NVOH_extdusk_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_NVOH_extdusk_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2638" class="architecture cultural parks isotope-item post-2638 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-cultural portfolio-type-parks portfolio-tag-cultural portfolio-tag-parks hidden-portfolio-tag-new-construction hidden-portfolio-tag-programming-and-interiors hidden-portfolio-tag-cultural-landscape">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/filoli-education-and-visitor-center/" title="Filoli Education and Visitor Center" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Filoli Education and Visitor Center</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/01/©Wakely308204-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/01/©Wakely308204-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/01/©Wakely308204-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/01/©Wakely308204-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/01/©Wakely308204-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/01/©Wakely308204-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/01/©Wakely308204-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1942" class="architecture conservation hospitality parks isotope-item post-1942 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-hospitality portfolio-type-parks portfolio-tag-hospitality portfolio-tag-parks hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-sustainable-design hidden-portfolio-tag-interior-design hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration hidden-portfolio-tag-adaptive-reuse hidden-portfolio-tag-universal-access-design hidden-portfolio-tag-programming">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/inn-at-the-presidio-architectural-rehabilitation/" title="Inn at the Presidio" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Inn at the Presidio</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/cWakely312324_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Inn at the Presidio - Architectural Rehabilitation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/cWakely312324_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312324_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312324_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312324_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312324_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312324_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312324_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312324_featured-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely312324_featured.jpg 500w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1758" class="architecture hospitality isotope-item post-1758 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-hospitality portfolio-tag-hospitality hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-sustainable-design hidden-portfolio-tag-interior-design hidden-portfolio-tag-construction-administration hidden-portfolio-tag-new-design">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/napa-valley-vintners-jackse-barn-sustainable-design/" title="Napa Valley Vintners, Jackse Barn" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Napa Valley Vintners, Jackse Barn</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/cWakely1010803Adjusted1_featured.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/cWakely1010803Adjusted1_featured.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1010803Adjusted1_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1010803Adjusted1_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1010803Adjusted1_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1010803Adjusted1_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1010803Adjusted1_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1010803Adjusted1_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/cWakely1010803Adjusted1_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2668" class="architecture hospitality isotope-item post-2668 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-hospitality portfolio-tag-hospitality-commerical portfolio-tag-civi-government hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/portland-union-station/" title="Portland Union Station" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Portland Union Station</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/01/Square-Photo.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/01/Square-Photo.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/01/Square-Photo-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/01/Square-Photo-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/01/Square-Photo-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/01/Square-Photo-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/01/Square-Photo-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/01/Square-Photo-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/01/Square-Photo-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2634" class="architecture conservation isotope-item post-2634 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-tag-cultural hidden-portfolio-tag-historic-structure-reports hidden-portfolio-tag-exterior-restoration hidden-portfolio-tag-conditions-assessment">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/contemporary-jewish-museum/" title="Contemporary Jewish Museum" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Contemporary Jewish Museum</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/01/P1210185_resized_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/01/P1210185_resized_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/01/P1210185_resized_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/01/P1210185_resized_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/01/P1210185_resized_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/01/P1210185_resized_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/01/P1210185_resized_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/01/P1210185_resized_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/01/P1210185_resized_featured-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2015/01/P1210185_resized_featured.jpg 588w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2720" class="planning parks isotope-item post-2720 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-planning portfolio-type-parks portfolio-tag-parks hidden-portfolio-tag-cultural-landscape">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/cultural-landscapes-cultural-lansdcape-reports/" title="Cultural Landscapes" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Cultural Landscapes</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/04/Marconi_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Cultural Landscapes, Cultural Landscape Reports (CLRs) - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/04/Marconi_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/04/Marconi_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/04/Marconi_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/04/Marconi_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/04/Marconi_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/04/Marconi_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/04/Marconi_featured.jpg 625w, https://www.argsf.com/wp-content/uploads/2015/04/Marconi_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/04/Marconi_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-6366" class="conservation cultural parks isotope-item post-6366 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-conservation portfolio-type-cultural portfolio-type-parks portfolio-tag-cultural portfolio-tag-parks hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-preservation">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/john-young-homestead/" title="John Young Homestead Stabilization" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">John Young Homestead Stabilization</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/P1010598-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Image with a man standing on top of stones" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/P1010598-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/P1010598-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/P1010598-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/P1010598-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/P1010598-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2749" class="planning cultural civic isotope-item post-2749 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-planning portfolio-type-cultural portfolio-type-civic portfolio-tag-cultural portfolio-tag-civic hidden-portfolio-tag-master-planning hidden-portfolio-tag-design-guidelines">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/master-planning-and-design-guidelines-historic-preservation/" title="Master Planning and Design Guidelines" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Master Planning and Design Guidelines</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/05/Preservation-Plan-cover_featured.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Master Planning and Design Guidelines for Historic Preservation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/05/Preservation-Plan-cover_featured.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/05/Preservation-Plan-cover_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/05/Preservation-Plan-cover_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/05/Preservation-Plan-cover_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/05/Preservation-Plan-cover_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/05/Preservation-Plan-cover_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/05/Preservation-Plan-cover_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/05/Preservation-Plan-cover_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2752" class="planning cultural civic isotope-item post-2752 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-planning portfolio-type-cultural portfolio-type-civic portfolio-tag-cultural portfolio-tag-civic hidden-portfolio-tag-historic-resource-surveys">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/historic-resources-surveys-and-context-statements/" title="Historic Resources Surveys" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Historic Resources Surveys</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/05/Appendix-B1_YearBuilt_featured.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Historic Resources Surveys and Context Statements - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/05/Appendix-B1_YearBuilt_featured.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/05/Appendix-B1_YearBuilt_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/05/Appendix-B1_YearBuilt_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/05/Appendix-B1_YearBuilt_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/05/Appendix-B1_YearBuilt_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/05/Appendix-B1_YearBuilt_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/05/Appendix-B1_YearBuilt_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/05/Appendix-B1_YearBuilt_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2726" class="planning isotope-item post-2726 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-planning portfolio-tag-cultural hidden-portfolio-tag-nominations">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/local-state-and-federal-nominations-for-historic-designation/" title="Local, State, and Federal Nominations" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Local, State, and Federal Nominations</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/05/CA-Club_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Local, State, and Federal Nominations For Historic Designation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/05/CA-Club_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/05/CA-Club_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/05/CA-Club_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/05/CA-Club_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/05/CA-Club_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/05/CA-Club_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/05/CA-Club_featured.jpg 625w, https://www.argsf.com/wp-content/uploads/2015/05/CA-Club_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/05/CA-Club_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2649" class="architecture education isotope-item post-2649 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-education portfolio-tag-education hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration hidden-portfolio-tag-programming">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/stanford-university-archeology-center-architectural-rehabilitation/" title="Stanford University Archeology Center" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Stanford University Archeology Center</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely_ext_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Stanford University Archeology Center - Architectural Rehabilitation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely_ext_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely_ext_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely_ext_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely_ext_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely_ext_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely_ext_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely_ext_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely_ext_featured-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely_ext_featured.jpg 582w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2651" class="architecture conservation cultural education isotope-item post-2651 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-cultural portfolio-type-education portfolio-tag-cultural portfolio-tag-education hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-historic-structure-reports hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-conditions-survey hidden-portfolio-tag-building-enclosures hidden-portfolio-tag-facade-inspections hidden-portfolio-tag-non-destructive-materials-investigation">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/stanford-university-cantor-center-architectural-restoration/" title="Stanford University Cantor Center for Visual Arts" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Stanford University Cantor Center for Visual Arts</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/IMG_9631_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Stanford University Cantor Center for Visual Arts - Architectural Restoration - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/IMG_9631_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/IMG_9631_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/IMG_9631_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/IMG_9631_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/IMG_9631_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/IMG_9631_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/IMG_9631_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/IMG_9631_featured-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2015/09/IMG_9631_featured.jpg 500w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2659" class="architecture education isotope-item post-2659 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-education portfolio-tag-education hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-non-destructive-materials-investigation hidden-portfolio-tag-field-testing">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/stanford-university-green-library-architectural-rehabilitation/" title="Stanford University Green Library" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Stanford University Green Library</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/P1190963_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Stanford University Green Library - Architectural Rehabilitation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/P1190963_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/P1190963_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/P1190963_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/P1190963_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/P1190963_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/P1190963_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/P1190963_featured.jpg 625w, https://www.argsf.com/wp-content/uploads/2015/09/P1190963_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/P1190963_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2672" class="conservation isotope-item post-2672 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-conservation portfolio-tag-cultural portfolio-tag-civi-government hidden-portfolio-tag-historic-structure-reports hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-repair-and-maintenance-plans hidden-portfolio-tag-building-enclosures hidden-portfolio-tag-art-in-outdoor-environments hidden-portfolio-tag-maintenance-and-remedial-work hidden-portfolio-tag-historical-research">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/washington-state-capitol-campus-historic-preservation-architecture/" title="Washington State Capitol Campus" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Washington State Capitol Campus</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/01/WA-Cap-Sq.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/01/WA-Cap-Sq.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/01/WA-Cap-Sq-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/01/WA-Cap-Sq-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/01/WA-Cap-Sq-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/01/WA-Cap-Sq-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/01/WA-Cap-Sq-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/01/WA-Cap-Sq-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/01/WA-Cap-Sq-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2199" class="architecture conservation isotope-item post-2199 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-tag-cultural portfolio-tag-parks hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-master-planning hidden-portfolio-tag-historic-structure-reports hidden-portfolio-tag-cultural-landscape">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/angel-island-immigration-station/" title="Angel Island Immigration Station" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Angel Island Immigration Station</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2014/10/cWakely810121_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2014/10/cWakely810121_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2014/10/cWakely810121_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2014/10/cWakely810121_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2014/10/cWakely810121_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2014/10/cWakely810121_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2014/10/cWakely810121_featured-680x680.jpg 680w, https://www.argsf.com/wp-content/uploads/2014/10/cWakely810121_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2014/10/cWakely810121_featured-625x625.jpg 625w, https://www.argsf.com/wp-content/uploads/2014/10/cWakely810121_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2014/10/cWakely810121_featured-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2014/10/cWakely810121_featured.jpg 940w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2200" class="architecture hospitality isotope-item post-2200 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-hospitality portfolio-tag-hospitality hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-interior-design hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-programming hidden-portfolio-tag-building-assessments">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/old-winery-at-beringer-vineyards-architectural-restoration/" title="Old Winery at Beringer Vineyards" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Old Winery at Beringer Vineyards</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/©WakelyBeringer_ext2_resized_cropped.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Old Winery at Beringer Vineyards - Architectural Restoration - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/©WakelyBeringer_ext2_resized_cropped.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyBeringer_ext2_resized_cropped-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyBeringer_ext2_resized_cropped-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyBeringer_ext2_resized_cropped-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyBeringer_ext2_resized_cropped-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyBeringer_ext2_resized_cropped-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyBeringer_ext2_resized_cropped-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/©WakelyBeringer_ext2_resized_cropped-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2661" class="architecture education private isotope-item post-2661 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-education portfolio-type-private portfolio-tag-education portfolio-tag-residential hidden-portfolio-tag-restoration hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-universal-access-design hidden-portfolio-tag-building-enclosures hidden-portfolio-tag-building-assessments hidden-portfolio-tag-non-destructive-materials-investigation">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/stanford-university-hanna-house-architectural-rehabilitation/" title="Stanford University Hanna House" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Stanford University Hanna House</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/Hanna-House-exterior_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Stanford University Hanna House - Architectural Rehabilitation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/Hanna-House-exterior_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/Hanna-House-exterior_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/Hanna-House-exterior_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/Hanna-House-exterior_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/Hanna-House-exterior_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/Hanna-House-exterior_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/Hanna-House-exterior_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/Hanna-House-exterior_featured-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2015/09/Hanna-House-exterior_featured.jpg 523w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1747" class="architecture cultural isotope-item post-1747 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-cultural portfolio-tag-cultural hidden-portfolio-tag-programming-and-interiors hidden-portfolio-tag-rehabilitation">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/the-huntington-art-gallery-renovation-and-restoration/" title="The Huntington Art Gallery" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">The Huntington Art Gallery</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/Huntington-8_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="The Huntington Art Gallery - Renovation, Restoration, Historic Preservation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/Huntington-8_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/Huntington-8_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/Huntington-8_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/Huntington-8_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/Huntington-8_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/Huntington-8_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/Huntington-8_featured.jpg 625w, https://www.argsf.com/wp-content/uploads/2015/09/Huntington-8_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/Huntington-8_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1769" class="architecture cultural isotope-item post-1769 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-cultural portfolio-tag-cultural hidden-portfolio-tag-new-construction hidden-portfolio-tag-programming-and-interiors hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-master-planning hidden-portfolio-tag-cultural-landscape">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/rancho-los-alamitos-historic-preservation-architecture/" title="Rancho Los Alamitos" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Rancho Los Alamitos</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/Rancho-1_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Rancho Los Alamitos - Historic Preservation Architecture - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/Rancho-1_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/Rancho-1_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/Rancho-1_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/Rancho-1_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/Rancho-1_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/Rancho-1_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/Rancho-1_featured.jpg 625w, https://www.argsf.com/wp-content/uploads/2015/09/Rancho-1_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/Rancho-1_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2666" class="architecture cultural isotope-item post-2666 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-cultural portfolio-tag-cultural hidden-portfolio-tag-master-planning hidden-portfolio-tag-historic-structure-reports hidden-portfolio-tag-environmental-review hidden-portfolio-tag-nominations hidden-portfolio-tag-cultural-landscape">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/walking-box-ranch-master-planning-architecture-design/" title="Walking Box Ranch" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Walking Box Ranch</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/01/FH000008_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Walking Box Ranch - Master Planning and Design - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/01/FH000008_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/01/FH000008_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/01/FH000008_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/01/FH000008_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/01/FH000008_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/01/FH000008_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/01/FH000008_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/01/FH000008_featured-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2015/01/FH000008_featured.jpg 562w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1954" class="architecture cultural isotope-item post-1954 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-cultural portfolio-tag-cultural hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-interior-design hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-construction-administration hidden-portfolio-tag-new-design">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/sunset-center-historic-architectural-rehabilitation/" title="Sunset Center" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Sunset Center</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/Wakely_Sunset_extlobbydusk_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Sunset Center - Historic Architectural Rehabilitation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/Wakely_Sunset_extlobbydusk_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_Sunset_extlobbydusk_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_Sunset_extlobbydusk_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_Sunset_extlobbydusk_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_Sunset_extlobbydusk_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_Sunset_extlobbydusk_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_Sunset_extlobbydusk_featured.jpg 625w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_Sunset_extlobbydusk_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/Wakely_Sunset_extlobbydusk_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2755" class="planning cultural isotope-item post-2755 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-planning portfolio-type-cultural portfolio-tag-cultural portfolio-tag-hospitality portfolio-tag-residential hidden-portfolio-tag-tax-credits">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/tax-incentives-historic-preservation-architecture-and-planning-firm/" title="Tax Incentives" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Tax Incentives</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/05/IMG_8508_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/05/IMG_8508_featured.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/05/IMG_8508_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/05/IMG_8508_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/05/IMG_8508_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/05/IMG_8508_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/05/IMG_8508_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/05/IMG_8508_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/05/IMG_8508_featured-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1917" class="architecture planning parks isotope-item post-1917 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-planning portfolio-type-parks portfolio-tag-parks hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-environmental-review hidden-portfolio-tag-exterior-restoration">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/the-ahwahnee-architectural-preservation/" title="The Ahwahnee" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">The Ahwahnee</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/Exterior-1_cropped.jpg" class="attachment-project-half size-project-half wp-post-image" alt="The Ahwahnee - Architectural Preservation, Renovation - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/Exterior-1_cropped.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/Exterior-1_cropped-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/Exterior-1_cropped-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/Exterior-1_cropped-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/Exterior-1_cropped-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/Exterior-1_cropped-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/Exterior-1_cropped-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/Exterior-1_cropped-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-1957" class="architecture conservation education isotope-item post-1957 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-conservation portfolio-type-education portfolio-tag-education hidden-portfolio-tag-rehabilitation hidden-portfolio-tag-sustainable-design hidden-portfolio-tag-restoration hidden-portfolio-tag-interior-design hidden-portfolio-tag-materials-conservation hidden-portfolio-tag-seismic-strengthening hidden-portfolio-tag-adaptive-reuse hidden-portfolio-tag-universal-access-design">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/university-of-virginia-batten-school-architectural-rehabilitation/" title="University of Virginia: Batten School of Leadership and Public Policy" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">University of Virginia: Batten School of Leadership and Public Policy</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/ext03_edit_featured-302x302.jpg" class="attachment-project-half size-project-half wp-post-image" alt="Historic rehabilitation, LEED Gold - ARG" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/ext03_edit_featured-302x302.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/ext03_edit_featured-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/ext03_edit_featured-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/ext03_edit_featured-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/ext03_edit_featured-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/ext03_edit_featured-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/ext03_edit_featured-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/ext03_edit_featured-20x20.jpg 20w, https://www.argsf.com/wp-content/uploads/2015/09/ext03_edit_featured.jpg 500w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+						
+		<!-- BEGIN Article-->
+		<article id="post-2207" class="architecture private parks isotope-item post-2207 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-type-architecture portfolio-type-private portfolio-type-parks portfolio-tag-parks portfolio-tag-residential hidden-portfolio-tag-sustainable-design hidden-portfolio-tag-master-planning hidden-portfolio-tag-interior-design hidden-portfolio-tag-construction-administration hidden-portfolio-tag-new-design hidden-portfolio-tag-programming">
+		
+		<div class="mosaic-block fade">
+		
+			<a href="https://www.argsf.com/portfolio/yosemite-new-employee-housing-sustainable-design/" title="Yosemite New Employee Housing" class="mosaic-overlay" style="display: inline;">
+			<div class="project_sq_rule">  
+				
+				<div class="details">
+					<h3 class="entry-title">Yosemite New Employee Housing</h3>
+				</div>
+				
+			</div>
+			</a>
+			
+			<div class="mosaic-backdrop" style="display: block;">
+			
+				<img width="302" height="302" src="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely307532_resized_cropped.jpg" class="attachment-project-half size-project-half wp-post-image" alt="" loading="lazy" srcset="https://www.argsf.com/wp-content/uploads/2015/09/©Wakely307532_resized_cropped.jpg 302w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely307532_resized_cropped-150x150.jpg 150w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely307532_resized_cropped-300x300.jpg 300w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely307532_resized_cropped-100x100.jpg 100w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely307532_resized_cropped-60x60.jpg 60w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely307532_resized_cropped-56x56.jpg 56w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely307532_resized_cropped-225x225.jpg 225w, https://www.argsf.com/wp-content/uploads/2015/09/©Wakely307532_resized_cropped-20x20.jpg 20w" sizes="(max-width: 302px) 100vw, 302px">				
+			</div>
+			
+		</div>
+	
+		<!-- END Article -->
+		</article>	
+			
+			
+	</div>
+		
+</div><iframe src="https://c.sharethis.mgr.consensu.org/portal-v2.html" id="st_gdpr_iframe" title="GDPR Consent Management" style="width: 0px; height: 0px; position: absolute; left: -5000px;"></iframe>
+	
+<footer id="footer" class="clearfix"> 
+
+				<div class="social_footer">
+					<ul>
+						<li><a href="https://www.instagram.com/arg.create/" target="_blank"><img width="35px" height="35px" src="https://www.argsf.com/wp-content/uploads/2020/01/web-social-media-icons-03.png"></a></li>
+						<li><a href="http://www.linkedin.com/company/architectural-resources-group" target="_blank"><img width="35px" height="35px" src="https://www.argsf.com/wp-content/uploads/2020/01/web-social-media-icons-02.png"></a></li>
+						<li><a href="http://www.facebook.com/ArchitecturalResourcesGroup" target="_blank"><img width="35px" height="35px" src="https://www.argsf.com/wp-content/uploads/2020/01/web-social-media-icons-04.png"></a></li>
+						<li><a href="https://twitter.com/arg_create" target="_blank"><img width="35px" height="35px" src="https://www.argsf.com/wp-content/uploads/2020/01/web-social-media-icons-01.png"></a></li>										
+					</ul>
+				</div>
+	
+	<div class="footer-inner">
+		<div class="footer-row">
+				
+				<nav id="footer-nav" class="menu-secondary-menu-container"><ul id="menu-secondary-menu" class="menu"><li id="menu-item-5432" class="menu-item menu-item-type-post_type menu-item-object-location first-menu-item menu-item-5432"><a href="https://www.argsf.com/contact/san-francisco-architecture-planning-conservation-firm/">SAN FRANCISCO</a></li>
+<li id="menu-item-5433" class="menu-item menu-item-type-post_type menu-item-object-location menu-item-5433"><a href="https://www.argsf.com/contact/la-architecture-planning-conservation-firm/">LOS ANGELES</a></li>
+<li id="menu-item-5434" class="menu-item menu-item-type-post_type menu-item-object-location last-menu-item menu-item-5434"><a href="https://www.argsf.com/contact/portland-architecture-planning-conservation-firm/">PORTLAND</a></li>
+</ul></nav>					
+		</div>
+		</div>
+	
+	<div class="footer-copyright">
+		© Architectural Resources Group (ARG). All rights reserved.
+	</div>		
+			
+</footer>
+
+<script>	
+	jQuery(document).ready(function($) {   
+		jQuery( "li.cat-item-109" ).before("<li class='market-header'>Markets:</li>" );
+	});  
+</script>
+
+<!-- Ran 16 queries 0.24 seconds -->
+
+<div id="um_upload_single" style="display:none"></div>
+<div id="um_view_photo" style="display:none">
+
+	<a href="javascript:void(0);" data-action="um_remove_modal" class="um-modal-close" aria-label="Close view photo modal">
+		<i class="um-faicon-times"></i>
+	</a>
+
+	<div class="um-modal-body photo">
+		<div class="um-modal-photo"></div>
+	</div>
+
+</div><script type="text/javascript">panopress.imagebox();</script>        <div id="wpfront-scroll-top-container" style="opacity: 0; right: 20px; bottom: 20px; display: none;">
+            <img src="https://www.argsf.com/wp-content/plugins/wpfront-scroll-top/images/icons/1.png" alt="" style="width: auto; height: auto;">        </div>
+                <script type="text/javascript">
+            function wpfront_scroll_top_init() {
+                if (typeof wpfront_scroll_top === "function" && typeof jQuery !== "undefined") {
+                    wpfront_scroll_top({"scroll_offset":100,"button_width":0,"button_height":0,"button_opacity":0.8,"button_fade_duration":200,"scroll_duration":400,"location":1,"marginX":20,"marginY":20,"hide_iframe":false,"auto_hide":false,"auto_hide_after":2,"button_action":"top","button_action_element_selector":"","button_action_container_selector":"html, body","button_action_element_offset":0});
+                } else {
+                    setTimeout(wpfront_scroll_top_init, 100);
+                }
+            }
+            wpfront_scroll_top_init();
+        </script>
+        <!-- Custom Feeds for Instagram JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.argsf.com/wp-admin/admin-ajax.php";
+
+</script>
+
+<!-- DO NOT COPY THIS SNIPPET! &mdash; HubSpot Identification Code -->
+<script type="text/javascript">
+(function(d,w) {
+w._hsq = w._hsq || [];
+  w._hsq.push(["identify", {
+    "email" : "marketing@argsf.com",
+    "name" : "argsf",
+    "id" : "31a119458f4bda2210c90b05c20058c2"
+  }]);
+w._hsq.push(["setContentType", "standard-page"]);
+})(document, window);
+</script>
+<!-- End of HubSpot Identification Code &mdash; DO NOT COPY THIS SNIPPET! -->
+
+<!-- Start of Async HubSpot Analytics Code for WordPress v1.2.2 -->
+<script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/2259430.js"></script>
+<!-- End of Async HubSpot Analytics Code -->
+<script type="text/javascript" src="https://www.argsf.com/wp-includes/js/hoverintent-js.min.js?ver=2.2.1" id="hoverintent-js-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-includes/js/admin-bar.min.js?ver=5.8" id="admin-bar-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.argsf.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/simple-share-buttons-adder/js/ssba.js?ver=5.8" id="simple-share-buttons-adder-ssba-js"></script>
+<script type="text/javascript" id="simple-share-buttons-adder-ssba-js-after">
+Main.boot( [] );
+</script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js?ver=2.0.7.08086" id="wpfront-scroll-top-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue/js/chunk-frontend-vendors.js?ver=7.18.0" id="monsterinsights-vue-vendors-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue/js/chunk-common.js?ver=7.18.0" id="monsterinsights-vue-common-js"></script>
+<script type="text/javascript" id="monsterinsights-vue-frontend-js-extra">
+/* <![CDATA[ */
+var monsterinsights = {"ajax":"https:\/\/www.argsf.com\/wp-admin\/admin-ajax.php","nonce":"8efaa3026b","network":"","translations":{"":{"domain":"google-analytics-for-wordpress","lang":"en_US"}},"assets":"https:\/\/www.argsf.com\/wp-content\/plugins\/google-analytics-for-wordpress\/lite\/assets\/vue","addons_url":"https:\/\/www.argsf.com\/wp-admin\/admin.php?page=monsterinsights_settings#\/addons","page_id":"1444","page_title":"Portfolio","plugin_version":"7.18.0","shareasale_id":"0","shareasale_url":"https:\/\/www.shareasale.com\/r.cfm?B=971799&U=0&M=69975&urllink=","is_admin":"","reports_url":"https:\/\/www.argsf.com\/wp-admin\/admin.php?page=monsterinsights_reports","authed":"","getting_started_url":"https:\/\/www.argsf.com\/wp-admin\/admin.php?page=monsterinsights_settings#\/about\/getting-started","wizard_url":"https:\/\/www.argsf.com\/wp-admin\/index.php?page=monsterinsights-onboarding"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue/js/frontend.js?ver=7.18.0" id="monsterinsights-vue-frontend-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/themes/arg/js/superfish.js?ver=1.7.4" id="superfish-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/themes/arg/js/jquery.custom.js?ver=1.0" id="tj_custom-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/themes/arg/js/jquery.ui.custom.min.js?ver=1.10.3" id="jquery-ui-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/themes/arg/js/jquery.fitvids.js?ver=1.0.3" id="fitvids-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/themes/arg/js/jquery.isotope.min.js?ver=1.5.03" id="isotope-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/themes/arg/js/bfc-mobile-menu.js?ver=5.8" id="bfc-mobile-menu-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/themes/arg/js/jquery.flexslider-min.js?ver=2.2.0" id="slider-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/themes/arg/js/jquery.bxslider.min.js?ver=2.2.0" id="bxslides-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-includes/js/comment-reply.min.js?ver=5.8" id="comment-reply-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min.js?ver=4.0.13" id="select2-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.argsf.com/wp-includes/js/wp-util.min.js?ver=5.8" id="wp-util-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/um-crop.min.js?ver=2.2.2" id="um_crop-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js?ver=2.2.2" id="um_modal-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min.js?ver=2.2.2" id="um_jquery_form-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/um-fileupload.js?ver=2.2.2" id="um_fileupload-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.js?ver=2.2.2" id="um_datetime-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date.js?ver=2.2.2" id="um_datetime_date-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time.js?ver=2.2.2" id="um_datetime_time-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/um-raty.min.js?ver=2.2.2" id="um_raty-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/um-tipsy.min.js?ver=2.2.2" id="um_tipsy-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b" id="jquery-masonry-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/simplebar.min.js?ver=2.2.2" id="um_scrollbar-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js?ver=2.2.2" id="um_functions-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js?ver=2.2.2" id="um_responsive-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js?ver=2.2.2" id="um_conditional-js"></script>
+<script type="text/javascript" id="um_scripts-js-extra">
+/* <![CDATA[ */
+var um_scripts = {"max_upload_size":"52428800","nonce":"0f0398e725"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js?ver=2.2.2" id="um_scripts-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js?ver=2.2.2" id="um_profile-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/js/um-account.min.js?ver=2.2.2" id="um_account-js"></script>
+<script type="text/javascript" src="https://www.argsf.com/wp-includes/js/wp-embed.min.js?ver=5.8" id="wp-embed-js"></script>
+	<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq mobile">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu"><li id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://www.argsf.com/wp-admin/about.php"><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wp-logo-default" class="ab-submenu"><li id="wp-admin-bar-about"><a class="ab-item" href="https://www.argsf.com/wp-admin/about.php">About WordPress</a></li></ul><ul id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu"><li id="wp-admin-bar-wporg"><a class="ab-item" href="https://wordpress.org/">WordPress.org</a></li><li id="wp-admin-bar-documentation"><a class="ab-item" href="https://wordpress.org/support/">Documentation</a></li><li id="wp-admin-bar-support-forums"><a class="ab-item" href="https://wordpress.org/support/forums/">Support</a></li><li id="wp-admin-bar-feedback"><a class="ab-item" href="https://wordpress.org/support/forum/requests-and-feedback">Feedback</a></li></ul></div></li><li id="wp-admin-bar-site-name" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://www.argsf.com/wp-admin/">Architectural Resources Group (ARG)</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-site-name-default" class="ab-submenu"><li id="wp-admin-bar-dashboard"><a class="ab-item" href="https://www.argsf.com/wp-admin/">Dashboard</a></li></ul><ul id="wp-admin-bar-appearance" class="ab-submenu"><li id="wp-admin-bar-themes"><a class="ab-item" href="https://www.argsf.com/wp-admin/themes.php">Themes</a></li><li id="wp-admin-bar-widgets"><a class="ab-item" href="https://www.argsf.com/wp-admin/widgets.php">Widgets</a></li><li id="wp-admin-bar-menus"><a class="ab-item" href="https://www.argsf.com/wp-admin/nav-menus.php">Menus</a></li><li id="wp-admin-bar-of_theme_options"><a class="ab-item" href="https://www.argsf.com/wp-admin/themes.php?page=options-framework">Theme Options</a></li></ul></div></li><li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="https://www.argsf.com/wp-admin/customize.php?url=https%3A%2F%2Fwww.argsf.com%2Fportfolio%2F">Customize</a></li><li id="wp-admin-bar-comments"><a class="ab-item" href="https://www.argsf.com/wp-admin/edit-comments.php"><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li><li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://www.argsf.com/wp-admin/post-new.php"><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu"><li id="wp-admin-bar-new-post"><a class="ab-item" href="https://www.argsf.com/wp-admin/post-new.php">Post</a></li><li id="wp-admin-bar-new-media"><a class="ab-item" href="https://www.argsf.com/wp-admin/media-new.php">Media</a></li><li id="wp-admin-bar-new-page"><a class="ab-item" href="https://www.argsf.com/wp-admin/post-new.php?post_type=page">Page</a></li><li id="wp-admin-bar-new-portfolio"><a class="ab-item" href="https://www.argsf.com/wp-admin/post-new.php?post_type=portfolio">Portfolio</a></li><li id="wp-admin-bar-new-ap"><a class="ab-item" href="https://www.argsf.com/wp-admin/post-new.php?post_type=ap">ap Post</a></li><li id="wp-admin-bar-new-publications"><a class="ab-item" href="https://www.argsf.com/wp-admin/post-new.php?post_type=publications">publications Post</a></li><li id="wp-admin-bar-new-testimonial"><a class="ab-item" href="https://www.argsf.com/wp-admin/post-new.php?post_type=testimonial">Testimonial</a></li><li id="wp-admin-bar-new-blog"><a class="ab-item" href="https://www.argsf.com/wp-admin/post-new.php?post_type=blog">blog Post</a></li><li id="wp-admin-bar-new-location"><a class="ab-item" href="https://www.argsf.com/wp-admin/post-new.php?post_type=location">Location</a></li><li id="wp-admin-bar-new-user"><a class="ab-item" href="https://www.argsf.com/wp-admin/user-new.php">User</a></li></ul></div></li><li id="wp-admin-bar-edit"><a class="ab-item" href="https://www.argsf.com/wp-admin/post.php?post=1444&amp;action=edit">Edit Page</a></li><li id="wp-admin-bar-wpseo-menu" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://www.argsf.com/wp-admin/admin.php?page=wpseo_dashboard"><div id="yoast-ab-icon" class="ab-item yoast-logo svg"><span class="screen-reader-text">SEO</span></div><div class="wpseo-score-icon adminbar-seo-score bad"><span class="adminbar-seo-score-text screen-reader-text">SEO score: Needs improvement</span></div></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wpseo-menu-default" class="ab-submenu"><li id="wp-admin-bar-wpseo-configuration-wizard"><a class="ab-item" href="https://www.argsf.com/wp-admin/admin.php?page=wpseo_configurator">Configuration Wizard</a></li><li id="wp-admin-bar-wpseo-kwresearch" class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Keyword Research</div><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wpseo-kwresearch-default" class="ab-submenu"><li id="wp-admin-bar-wpseo-kwresearchtraining"><a class="ab-item" href="https://yoa.st/wp-admin-bar?php_version=7.4&amp;platform=wordpress&amp;platform_version=5.8&amp;software=free&amp;software_version=16.9&amp;days_active=365plus&amp;user_language=en_US" target="_blank">Keyword research training</a></li><li id="wp-admin-bar-wpseo-adwordsexternal"><a class="ab-item" href="https://yoa.st/keywordplanner" target="_blank">Google Ads</a></li><li id="wp-admin-bar-wpseo-googleinsights"><a class="ab-item" href="https://yoa.st/google-trends#q=architecture+sustainable+planning+preservation+historic+adaptive+reuse" target="_blank">Google Trends</a></li></ul></div></li><li id="wp-admin-bar-wpseo-analysis" class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Analyze this page</div><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wpseo-analysis-default" class="ab-submenu"><li id="wp-admin-bar-wpseo-inlinks"><a class="ab-item" href="https://search.google.com/search-console/links/drilldown?resource_id=https%3A%2F%2Fwww.argsf.com&amp;type=EXTERNAL&amp;target=https%3A%2F%2Fwww.argsf.com%2Fportfolio%2F&amp;domain=" target="_blank">Check links to this URL</a></li><li id="wp-admin-bar-wpseo-kwdensity"><a class="ab-item" href="http://www.zippy.co.uk/keyworddensity/index.php?url=https%3A%2F%2Fwww.argsf.com%2Fportfolio%2F&amp;keyword=architecture+sustainable+planning+preservation+historic+adaptive+reuse" target="_blank">Check Keyphrase Density</a></li><li id="wp-admin-bar-wpseo-cache"><a class="ab-item" href="//webcache.googleusercontent.com/search?strip=1&amp;q=cache:https%3A%2F%2Fwww.argsf.com%2Fportfolio%2F" target="_blank">Check Google Cache</a></li><li id="wp-admin-bar-wpseo-structureddata"><a class="ab-item" href="https://search.google.com/test/rich-results?url=https%3A%2F%2Fwww.argsf.com%2Fportfolio%2F" target="_blank">Google Rich Results Test</a></li><li id="wp-admin-bar-wpseo-facebookdebug"><a class="ab-item" href="//developers.facebook.com/tools/debug/?q=https%3A%2F%2Fwww.argsf.com%2Fportfolio%2F" target="_blank">Facebook Debugger</a></li><li id="wp-admin-bar-wpseo-pinterestvalidator"><a class="ab-item" href="https://developers.pinterest.com/tools/url-debugger/?link=https%3A%2F%2Fwww.argsf.com%2Fportfolio%2F" target="_blank">Pinterest Rich Pins Validator</a></li><li id="wp-admin-bar-wpseo-htmlvalidation"><a class="ab-item" href="//validator.w3.org/check?uri=https%3A%2F%2Fwww.argsf.com%2Fportfolio%2F" target="_blank">HTML Validator</a></li><li id="wp-admin-bar-wpseo-cssvalidation"><a class="ab-item" href="//jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwww.argsf.com%2Fportfolio%2F" target="_blank">CSS Validator</a></li><li id="wp-admin-bar-wpseo-pagespeed"><a class="ab-item" href="//developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.argsf.com%2Fportfolio%2F" target="_blank">Google Page Speed Test</a></li><li id="wp-admin-bar-wpseo-google-mobile-friendly"><a class="ab-item" href="https://www.google.com/webmasters/tools/mobile-friendly/?url=https%3A%2F%2Fwww.argsf.com%2Fportfolio%2F" target="_blank">Mobile-Friendly Test</a></li></ul></div></li><li id="wp-admin-bar-wpseo-settings" class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>SEO Settings</div><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wpseo-settings-default" class="ab-submenu"><li id="wp-admin-bar-wpseo-general"><a class="ab-item" href="https://www.argsf.com/wp-admin/admin.php?page=wpseo_dashboard">General</a></li><li id="wp-admin-bar-wpseo-titles"><a class="ab-item" href="https://www.argsf.com/wp-admin/admin.php?page=wpseo_titles">Search Appearance</a></li><li id="wp-admin-bar-wpseo-social"><a class="ab-item" href="https://www.argsf.com/wp-admin/admin.php?page=wpseo_social">Social</a></li><li id="wp-admin-bar-wpseo-tools"><a class="ab-item" href="https://www.argsf.com/wp-admin/admin.php?page=wpseo_tools">Tools</a></li><li id="wp-admin-bar-wpseo-licenses"><a class="ab-item" href="https://www.argsf.com/wp-admin/admin.php?page=wpseo_licenses">Premium</a></li></ul></div></li></ul></div></li><li id="wp-admin-bar-monsterinsights_frontend_button" class="monsterinsights-adminbar-menu-item"><div class="ab-item ab-empty-item monsterinsights-toggle"><span class="ab-icon dashicons-before dashicons-chart-bar"></span><span class="monsterinsights-admin-bar-handle-text">Insights</span><span class="monsterinsights-menu-notification-indicator">11</span></div><!----></li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu"><li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://www.argsf.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150"><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"></form></div></li><li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" aria-haspopup="true" href="https://www.argsf.com/wp-admin/profile.php">Howdy, <span class="display-name">argsf</span><img src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" class="gravatar avatar avatar-26 um-avatar um-avatar-default" width="26" height="26" alt="Architectural Resources Group" data-default="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" onerror="if ( ! this.getAttribute('data-load-error') ){ this.setAttribute('data-load-error', '1');this.setAttribute('src', this.getAttribute('data-default'));}"></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu"><li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="https://www.argsf.com/wp-admin/profile.php"><img src="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" class="gravatar avatar avatar-64 um-avatar um-avatar-default" width="64" height="64" alt="Architectural Resources Group" data-default="https://www.argsf.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" onerror="if ( ! this.getAttribute('data-load-error') ){ this.setAttribute('data-load-error', '1');this.setAttribute('src', this.getAttribute('data-default'));}"><span class="display-name">argsf</span></a></li><li id="wp-admin-bar-edit-profile"><a class="ab-item" href="https://www.argsf.com/wp-admin/profile.php">Edit Profile</a></li><li id="wp-admin-bar-logout"><a class="ab-item" href="https://www.argsf.com/wp-login.php?action=logout&amp;_wpnonce=8109781c36">Log Out</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://www.argsf.com/wp-login.php?action=logout&amp;_wpnonce=8109781c36">Log Out</a>
+					</div>
+
+				<script type="text/javascript">
+			jQuery( window ).on( 'load', function() {
+				jQuery('input[name="um_request"]').val('');
+			});
+		</script>
+	
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div></body>
